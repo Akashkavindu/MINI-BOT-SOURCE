@@ -1,0 +1,97 @@
+mongodb+srv://<Zanta-MD>:<Akashkavindu12345>@cluster0.mongodb.net/?retryWrites=true&w=majority
+
+
+mongodb+srv://<Zanta-MD>:<Akashkavindu12345>@cluster0.y7xsqsi.mongodb.net/?appName=Cluster0
+
+mongodb+srv://Zanta-MD:Akashkavindu12345@cluster0.y7xsqsi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+--------------------------------------------------------------------------------
+
+zanta-md          Akashkavindu12345
+
+mongodb+srv://zanta-md:<Akashkavindu12345>@cluster0.iw4vklq.mongodb.net/?appName=Cluster0
+
+MONGO_URI=mongodb+srv://zanta-md:Akashkavindu12345@cluster0.iw4vklq.mongodb.net/?appName=Cluster0
+----------------------------------------------------------------------------------------------
+new databass = mongodb+srv://zanta-mini:Akashkavindu12345@zanta-mini.x1s0cjc.mongodb.net/?appName=zanta-mini
+----------------------------------------------------------------------------------------------
+
+ZantaMd2026#abc      =  d ocean
+ssh root@157.245.149.56
+git clone https://github.com/Akashkavindu/ZANTA-MINI-BASS.git
+cd ZANTA-MINI-BASS
+npm install
+pm2 start index.js --name "zanta-mini"
+pm2 logs
+
+git pull
+npm install
+pm2 restart zanta-mini
+
+pm2 stop all
+pm2 delete all
+
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O /usr/local/bin/yt-dlp
+sudo chmod a+rx /usr/local/bin/yt-dlp
+sudo apt update && sudo apt install -y libgbm-dev wget gnupg ca-certificates procps libxss1 libasound2t64 libatk-bridge2.0-0 libgtk-3-0 libnss3 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxtst6 libpango-1.0-0 libcairo2 libcups2
+npx puppeteer browsers install chrome
+sudo apt update && sudo apt install quickjs -y
+
+whatsapp boost--------------------------------------------------------
+mongodb+srv://whatsapp-boost:akashkavindu12345@cluster0.ykghuog.mongodb.net/?appName=Cluster0
+
+bot test
+mongodb+srv://zanta-test:Akashkavindu12345@cluster0.qedizqe.mongodb.net/?appName=Cluster0
+
+https://whatsapp.com/channel/0029VbBSLK7CRs1j1WRhuv1w/100
+https://whatsapp.com/channel/0029Vb6wKyZ0LKZLFKIngy2J/209
+120363425936239705@newsletter
+
+mail app password dzd page = byqe zcwl ytjw opf
+
+
+
+
+
+  ssh root@167.99.141.216
+ZantaMd2026#abc
+
+# 1. System එක Update කිරීම
+sudo apt update && sudo apt upgrade -y
+
+# 2. NodeJS (Version 20) ඉන්ස්ටෝල් කිරීම
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt install -y nodejs
+
+# 3. FFMPEG සහ Python (yt-dlp සඳහා)
+sudo apt install ffmpeg python3-pip -y
+
+# 4. yt-dlp අලුත්ම එක කෙලින්ම ගැනීම
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+sudo chmod a+rx /usr/local/bin/yt-dlp
+
+# 5. PM2 (Bot එක දිගටම රන් වීමට)
+sudo npm install -y pm2 -g
+
+pm2 restart zanta-mini
+
+
+herku------------
+
+START_RANGE  =  0
+END_RANGE    =  60
+https://github.com/heroku/heroku-buildpack-chrome-for-testing
+
+NODE_OPTIONS = --max-old-space-size=850
+APP_ID = 1,2,3,4
+USE_NPM_INSTALL
+
+ssh root@104.207.64.26 -p 22022
+Danuka#Zanta@1234
+
+//-------------------client auto save
+
+id        =  1065967515505-vbeksm0o8gsfa8nhh0b3rbnhe7deka2s.apps.googleusercontent.com
+secret    =  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
+refresh   =  1//04CeTHKI5vtz1CgYIARAAGAQSNwF-L9Irr25gGTUqPzulO39u1OMC_fMT_BTBkW1R6fjmjnYtWIxdUm5_-Fv4MLVSI7wGx-VDlJs
+
