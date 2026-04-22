@@ -95,3 +95,6 @@ id        =  1065967515505-vbeksm0o8gsfa8nhh0b3rbnhe7deka2s.apps.googleuserconte
 secret    =  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
 refresh   =  1//04CeTHKI5vtz1CgYIARAAGAQSNwF-L9Irr25gGTUqPzulO39u1OMC_fMT_BTBkW1R6fjmjnYtWIxdUm5_-Fv4MLVSI7wGx-VDlJs
 
+
+//----pupateer------------------
+https://github.com/heroku/heroku-buildpack-chrome-for-testing
